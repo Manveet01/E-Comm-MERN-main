@@ -37,4 +37,4 @@ This is a full-stack e-commerce application built with React, Redux, Node.js, Ex
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Manveet01/E-Comm-MERN-main.git
